@@ -7,7 +7,7 @@ Hi 👋, I'm Md Ayaz 👋
 
 🔄 State Management: Knowledgeable in Redux for large-scale React applications.
 
-📱 UI/UX: Familiar with Figma and Adobe XD for design.
+📱 UI/UX: Familiar with Figma for design.
 
 📝 Version Control: Git/GitHub proficiency.
 
