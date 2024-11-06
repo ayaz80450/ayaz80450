@@ -3,7 +3,7 @@ Hi 👋, I'm Md Ayaz 👋
 
 🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design,Chakra UI, Next.js and React.js.
 
-🚀 Backend: Experience with building RESTful APIs.
+🚀 Backend: Experience with building RESTful APIs
 
 🔄 State Management: Knowledgeable in Redux for large-scale React applications.
 
