@@ -1,5 +1,5 @@
 Hi 👋, I'm Md Ayaz 👋
-👨‍💻 Frontend Developer: Proficient in React,Redux.
+👨‍💻 Frontend Developer: Proficient in React,Redux,Router.
 
 🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design,Chakra UI, Next.js and React.js.
 
