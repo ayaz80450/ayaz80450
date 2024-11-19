@@ -17,7 +17,8 @@ Hi 👋, I'm Md Ayaz 👋
 
 🔍 Problem-solving: Strong debugging skills.
 
-💬 Communication: Effective team collaboration.
+💬 Communication: Effective team collaboration
+
 
 <!---
 ayaz80450/ayaz80450 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
