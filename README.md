@@ -17,7 +17,7 @@ Hi 👋, I'm Md Ayaz 👋
 
 🔍 Problem-solving: Strong debugging skills.
 
-💬 Communication: Effective team collaboration
+💬 Communication: Effective team collaboration.
 
 
 <!---
