@@ -9,7 +9,7 @@ Hi 👋, I'm Md Ayaz 👋
 
 📱 UI/UX: Familiar with Figma for design.
 
-📝 Version Control: Git/GitHub proficiency
+📝 Version Control: Git/GitHub proficiency.
 
 ☁️ Deployment: Experienced in deploying on AWS, vercel, Hostinger and Netlify.
 
